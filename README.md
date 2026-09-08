@@ -163,23 +163,11 @@ Manages student records, attendance & scheduling
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0BBE4,100:FFD6E8&height=3&section=header" width="100%"/>
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rida-Zaib&show_icons=true&hide_border=true&bg_color=00000000&title_color=8E7CC3&icon_color=F67280&text_color=6C5B7B" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Zaib&layout=compact&hide_border=true&bg_color=00000000&title_color=8E7CC3&text_color=6C5B7B" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Zaib&hide_border=true&background=00000000&ring=C7CEEA&fire=F67280&currStreakLabel=8E7CC3" />
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rida-Zaib&show_icons=true&hide_border=true&bg_color=00000000&title_color=8E7CC3&icon_color=F67280&text_color=6C5B7B" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Zaib&layout=compact&hide_border=true&bg_color=00000000&title_color=8E7CC3&text_color=6C5B7B" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Zaib&hide_border=true&background=00000000&ring=C7CEEA&fire=F67280&currStreakLabel=8E7CC3&currStreakNum=F67280&sideNums=8E7CC3&sideLabels=6C5B7B&dates=6C5B7B&stroke=C7CEEA" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rida-Zaib&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E8,100:C7CEEA&height=3&section=header" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rida-Zaib&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=6" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E8,100:C7CEEA&height=3&section=header" width="100%"/>
 
 ### 🎯 Goals
 
